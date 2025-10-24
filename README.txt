@@ -1,3 +1,6 @@
+This project was developed as part of the Microsoft Power BI Desktop for Business Intelligence course by Maven Analytics.
+The goal was to design a complete Business Intelligence solution for a fictional company called Adventure Works Cycles, including data transformation, modeling, and interactive dashboards.
+
 Project Workflow
 
 Data Connection & Transformation (ETL)
@@ -39,5 +42,6 @@ Key Insights & Results
 Interactive dashboard allowing users to explore sales performance by region, product, and time period.
 
 Identified top-performing products and underperforming sales regions.
+
 
 Created a clear executive view for decision-making with dynamic filtering and KPIs.
